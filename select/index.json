@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "春難色",
+  "base_artist": "稲葉曇",
+  "createdAt": "2026-02-08T08:14:34.326275Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "春難色",
+      "artist": "inabakumori",
+      "has_synced": false,
+      "path": "select/01_春難色_inabakumori.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春難色",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/pl_01_春難色_稲葉曇.txt"
+    }
+  ]
+}
