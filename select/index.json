@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "春難色",
   "base_artist": "稲葉曇",
-  "createdAt": "2026-02-08T08:14:34.326275Z",
+  "createdAt": "2026-03-29T14:53:01.820379Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -19,6 +19,15 @@
       "artist": "稲葉曇",
       "has_synced": false,
       "path": "select/pl_01_春難色_稲葉曇.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "春難色",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/localdb_01_春難色_稲葉曇.lrc",
+      "repo_name": "1nZwWpHF0mQ"
     }
   ]
 }
